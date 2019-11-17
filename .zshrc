@@ -1,3 +1,14 @@
+## Add oh-my-god init plugins plus some more additionaly
+plugins=(
+    archlinux
+    git
+    history-substring-search
+    colored-man-pages
+    zsh-autosuggestions
+    zsh-syntax-highlighting
+)
+
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
